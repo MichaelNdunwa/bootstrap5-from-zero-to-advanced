@@ -55,7 +55,7 @@ This project was created to:
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-username/aurora-tours.git
+   git clone --branch aurora --single-branch https://github.com/michaelndunwa/bootstrap5-from-zero-to-advanced
    ```
 2. Open `index.html` in your browser.
 3. No build process required — it runs on plain HTML/CSS/Bootstrap.
