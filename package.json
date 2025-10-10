@@ -1,0 +1,35 @@
+{
+  "name": "patrix",
+  "version": "1.0.0",
+  "description": "Learning bootstrap v5 with sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelNdunwa/bootstrap5-from-zero-to-advanced.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "author": "Michael Ndunwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelNdunwa/bootstrap5-from-zero-to-advanced/issues"
+  },
+  "homepage": "https://github.com/MichaelNdunwa/bootstrap5-from-zero-to-advanced#readme",
+  "devDependencies": {
+    "sass": "^1.93.2"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.0.1",
+    "autoprefixer": "^10.4.21",
+    "bootstrap": "^5.3.8",
+    "postcss-cli": "^11.0.1"
+  }
+}
